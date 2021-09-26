@@ -59,7 +59,7 @@ for i, instance in enumerate(db):
     #--> add your Python code here
 
 
-    print(class_predicted, classification[instance[2]])
+
     if class_predicted != classification[instance[2]]:
         error += 1
 #print the error rate
