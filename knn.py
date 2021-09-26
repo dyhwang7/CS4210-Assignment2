@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Daeyoung Hwang
 # FILENAME: knn.py
-# SPECIFICATION: LOO-CV Error Rate !NN
+# SPECIFICATION: LOO-CV Error Rate 1NN
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
